@@ -2,6 +2,10 @@
 
 OBJETIVOS
 
+Entender la relación que existe entre los circuitos RLC y la resonancia
+Analizar como funcionan estos circuitos ya sea en serie o en paralelo
+Identificar los diferentes tipos de filtros que existen y comprender su funcionamiento
+
 MARCO TEORICO (RESUMEN)
 
 ![1](https://user-images.githubusercontent.com/116812951/221338770-38e8e850-cd1a-4aaa-a7a0-c5372344b0a8.png)
@@ -29,6 +33,9 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 VIDEO
 
 CONCLUSIONES
+
+En algunos circuitos, la impedancia entre la entrada y la salida del circuito es casi cero y la función de transferencia es cercana a uno.
+La resonancia eléctrica es un fenómeno que se produce en un circuito eléctrico a una frecuencia de resonancia particular cuando las impedancias o admitancias de los elementos del circuito se cancelan entre sí
 
 BIBLIOGRAFÍA
 
