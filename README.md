@@ -32,6 +32,8 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 VIDEO
 
+https://youtu.be/_q8u7CDraFc
+
 CONCLUSIONES
 
 En algunos circuitos, la impedancia entre la entrada y la salida del circuito es casi cero y la función de transferencia es cercana a uno.
